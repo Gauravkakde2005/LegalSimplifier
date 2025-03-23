@@ -1,0 +1,33 @@
+{
+  "name": "startathon_backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^5.8.1",
+    "@google/generative-ai": "^0.23.0",
+    "axios": "^1.8.1",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.5.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "gtts": "^0.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^3.2.1",
+    "pdf-parse": "^1.1.1",
+    "prettier": "^3.5.3"
+  }
+}
