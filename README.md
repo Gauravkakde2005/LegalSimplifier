@@ -1,19 +1,29 @@
 LegalEase – AI-Powered Legal Document Simplifier
-LegalEase is a web application that simplifies complex legal documents using AI, making legal information more accessible to everyone. Built with the MERN stack, it leverages OpenAI for natural language processing, Google Translate API for multilingual support, and Google Text-to-Speech API for audio assistance.
+LegalEase is an AI-powered web application that simplifies complex legal documents, making legal information more accessible to everyone. It enables users to scan legal documents and receive easy-to-understand summaries. The platform also supports multilingual translation, text-to-speech conversion, and an AI-powered chatbot to assist users with legal queries.
 
-Key Features:
+🚀 Key Features
 ✅ Legal Document Simplification – Upload and scan legal documents to get easy-to-understand summaries.
 ✅ Multilingual Support – Translate legal text into multiple languages for wider accessibility.
-✅ Text-to-Speech – Convert legal text into audio for users who prefer listening.
+✅ Text-to-Speech Integration – Convert legal text into audio for users who prefer listening.
 ✅ AI-Powered Legal Chatbot – Get instant answers to legal queries using an AI-trained chatbot.
 
-Tech Stack:
-Frontend: React.js
+🛠 Tech Stack
+Frontend:
+React.js
 
-Backend: Node.js, Express.js
+Backend:
+Node.js
 
-Database: MongoDB
+Express.js
 
-APIs & AI Models: OpenAI, Google Translate API, Google Text-to-Speech API
+Database:
+MongoDB
 
-This project aims to bridge the gap between legal complexity and public understanding, making legal documents more accessible for everyone. 🚀
+APIs & AI Models:
+OpenAI
+
+Google Translate API
+
+Google Text-to-Speech API
+
+📌 LegalEase aims to bridge the gap between legal complexity and public understanding, ensuring legal documents are accessible to everyone.
